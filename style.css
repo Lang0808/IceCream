@@ -1,0 +1,73 @@
+body {
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Changa One', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 900;
+}
+
+#intro{
+    background-image: url('assets/bg_banner.gif');
+}
+
+#see-menu-button{
+    background-color: #FA97C2;
+}
+
+#logo-image{
+    position: relative;
+}
+
+#logo-background{
+    position: absolute;
+    top: 100%;
+    left: 0%;
+}
+
+#form-search{
+    position: relative;
+
+}
+
+#search-navbar-image{
+    position: absolute;
+    top: 140%;
+    left: 0%;
+}
+
+#about-us {
+    background-color: #FA97C2;
+}
+
+#email {
+    width: 100%;
+}
+
+#submit-email{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#newsletter{
+    border: 2px dashed black;
+    border-radius: 1rem;
+}
+
+.Apr7{
+    background-color: #73C926;
+    word-wrap: break-word;
+    
+}
+
+#footer{
+    background-image: url('assets/bg_footer.gif');
+}
